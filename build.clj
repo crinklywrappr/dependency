@@ -15,7 +15,8 @@
   "Run the CI pipeline of tests (and build the JAR)."
   [opts]
   (-> opts
-      (assoc :lib lib :version version :src-pom "template/pom.xml")
+      (assoc :lib lib :version version
+             :src-pom "template/pom.xml")
       (bb/run-tests)
       (bb/clean)
       (bb/jar)))

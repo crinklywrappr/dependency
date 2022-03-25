@@ -1,4 +1,4 @@
-<project>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <description>stuart sierra's dependency library</description>
     <url>https://github.com/crinklywrappr/dependency</url>
     <licenses>
@@ -9,7 +9,9 @@
     </licenses>
     <developers>
         <developer>
-            <name>crinklywrappr</name>
+            <id>crinklywrappr</id>
+            <name>Daniel Fitzpatrick</name>
+            <email>crinklywrappr@pm.me</email>
         </developer>
     </developers>
 </project>
