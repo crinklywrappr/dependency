@@ -3,7 +3,7 @@
   (:require [clojure.tools.build.api :as b] ; for b/git-count-revs
             [org.corfield.build :as bb]))
 
-(def lib 'crinklywrappr/dependency)
+(def lib 'com.github.crinklywrappr/dependency)
 (def version (format "1.0.%s" (b/git-count-revs nil)))
 
 (defn test
