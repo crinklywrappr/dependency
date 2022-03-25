@@ -14,4 +14,9 @@
             <email>crinklywrappr@pm.me</email>
         </developer>
     </developers>
+    <scm>
+        <url>https://github.com/crinklywrappr/dependency</url>
+        <connection>scm:git:git://github.com/crinklywrappr/dependency.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/crinklywrappr/dependency.git</developerConnection>
+    </scm>
 </project>
