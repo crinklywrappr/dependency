@@ -1,0 +1,15 @@
+<project>
+    <description>stuart sierra's dependency library</description>
+    <url>https://github.com/crinklywrappr/dependency</url>
+    <licenses>
+        <license>
+            <name>Eclipse Public License</name>
+            <url>http://www.eclipse.org/legal/epl-v10.html</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>crinklywrappr</name>
+        </developer>
+    </developers>
+</project>
